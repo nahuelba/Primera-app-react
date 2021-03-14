@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Primera-app-react/static/js/main.c0c15dc3.chunk.js",
+    "main.js.map": "/Primera-app-react/static/js/main.c0c15dc3.chunk.js.map",
+    "runtime-main.js": "/Primera-app-react/static/js/runtime-main.0dd4742e.js",
+    "runtime-main.js.map": "/Primera-app-react/static/js/runtime-main.0dd4742e.js.map",
+    "static/js/2.9db9b097.chunk.js": "/Primera-app-react/static/js/2.9db9b097.chunk.js",
+    "static/js/2.9db9b097.chunk.js.map": "/Primera-app-react/static/js/2.9db9b097.chunk.js.map",
+    "static/js/3.18f957a2.chunk.js": "/Primera-app-react/static/js/3.18f957a2.chunk.js",
+    "static/js/3.18f957a2.chunk.js.map": "/Primera-app-react/static/js/3.18f957a2.chunk.js.map",
+    "index.html": "/Primera-app-react/index.html",
+    "static/js/2.9db9b097.chunk.js.LICENSE.txt": "/Primera-app-react/static/js/2.9db9b097.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dd4742e.js",
+    "static/js/2.9db9b097.chunk.js",
+    "static/js/main.c0c15dc3.chunk.js"
+  ]
+}
